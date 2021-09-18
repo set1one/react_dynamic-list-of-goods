@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACE,aACE,eAAgB,CAChB,eAAgB,CAChB,SAAU,CACX,aAGC,kBAAmB,CACpB,SAID,eAAgB","file":"main.38b36739.chunk.css","sourcesContent":[".goods {\n  &__list{\n    margin-top: 20px;\n    list-style: none;\n    padding: 0;\n  }\n\n  &__item {\n    margin-bottom: 10px;\n  }\n}\n\n.buttons {\n  margin-top: 30px;\n}\n"]}
